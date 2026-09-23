@@ -1,0 +1,11 @@
+extracted_all/
+extracted_stored/
+extracted_proper/
+__pycache__/
+*.pyc
+/tmp/
+decrypted/
+*_decrypted/
+*.log
+unrar
+*.tar.gz

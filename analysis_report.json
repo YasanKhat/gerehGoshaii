@@ -1,0 +1,108 @@
+[
+  {
+    "name": "Bx1RGQ==",
+    "contents_size": 14178,
+    "contents_zero": true,
+    "manifest_size": 615,
+    "manifest_zero": true
+  },
+  {
+    "name": "IPj3XA==",
+    "contents_size": 7309,
+    "contents_zero": false,
+    "magic": "fcb9cf9b",
+    "manifest_size": 464,
+    "manifest_zero": false,
+    "manifest_name": "Guns",
+    "manifest_uuid": "f5e139e6-62cf-4c46-ae37-c295a7296f36"
+  },
+  {
+    "name": "MDUVrw==",
+    "contents_size": 2430,
+    "contents_zero": false,
+    "magic": "fcb9cf9b",
+    "manifest_size": 482,
+    "manifest_zero": false,
+    "manifest_name": "HiveUI",
+    "manifest_uuid": "9b4f2c1e-7d6a-4a83-b5e1-2f8c6d0a9e47"
+  },
+  {
+    "name": "WRqMFA==",
+    "contents_size": 79734,
+    "contents_zero": false,
+    "magic": "fcb9cf9b",
+    "manifest_size": 505,
+    "manifest_zero": false,
+    "manifest_name": "SkyBlockItems",
+    "manifest_uuid": "332b3547-92b0-431b-924a-ba0be3574660"
+  },
+  {
+    "name": "WUAM6g==",
+    "contents_size": 0,
+    "contents_zero": null,
+    "manifest_size": 571,
+    "manifest_zero": false,
+    "manifest_name": "CloudyGames Backblings - All Packs Compatible",
+    "manifest_uuid": "288f3563-c40d-4879-8ce7-4cb067985854"
+  },
+  {
+    "name": "f9fjhw==",
+    "contents_size": 84427,
+    "contents_zero": false,
+    "magic": "fcb9cf9b",
+    "manifest_size": 521,
+    "manifest_zero": false,
+    "manifest_name": "AdvancedItems",
+    "manifest_uuid": "3f2d9c8a-7b6a-4e5e-9f3a-1c6d2a8e4b91"
+  },
+  {
+    "name": "l6cvYQ==",
+    "contents_size": 1431,
+    "contents_zero": false,
+    "magic": "fcb9cf9b",
+    "manifest_size": 475,
+    "manifest_zero": false,
+    "manifest_name": "Bedwars Generators",
+    "manifest_uuid": "cf449055-ebaf-48b1-8e94-a64ac814a14a"
+  },
+  {
+    "name": "lYvyDA==",
+    "contents_size": 15191,
+    "contents_zero": false,
+    "magic": "fcb9cf9b",
+    "manifest_size": 507,
+    "manifest_zero": false,
+    "manifest_name": "ApexMine Textures",
+    "manifest_uuid": "4d9a7c2e-1b6f-4e83-9a5d-8c0f2e6b1a47"
+  },
+  {
+    "name": "qnJIVA==",
+    "contents_size": 23864,
+    "contents_zero": false,
+    "magic": "fcb9cf9b",
+    "manifest_size": 479,
+    "manifest_zero": false,
+    "manifest_name": "Lobby",
+    "manifest_uuid": "00267c6d-01d3-44af-8d09-899a4efed1f7"
+  },
+  {
+    "name": "skUvkw==",
+    "contents_size": 811,
+    "contents_zero": false,
+    "magic": "fcb9cf9b",
+    "manifest_size": 473,
+    "manifest_zero": false,
+    "manifest_name": "DefaultUI",
+    "manifest_uuid": "1c7e5b4a-9d2f-4f83-a6e1-0b8d3c2a5f94"
+  },
+  {
+    "name": "xp5EaQ==",
+    "contents_size": 19760,
+    "contents_zero": false,
+    "magic": "fcb9cf9b",
+    "manifest_size": 488,
+    "manifest_zero": false,
+    "manifest_name": "Entities",
+    "manifest_uuid": "3f7a9e2c-6c4b-4e8f-9a2a-1c9b8a7d5e41"
+  }
+]
